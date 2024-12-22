@@ -1,4 +1,3 @@
-# dynamic-expance-calculator
 expenses = {
     "Food": 0.0,
     "Transport": 0.0,
